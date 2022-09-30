@@ -1,14 +1,14 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Amiri', serif;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url(/fdsw-github/assets/img/foto.JPG);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position:center;
 }
 
 /* Mis trabajos */
@@ -35,5 +35,13 @@ body {
   .navbar-brand{
     width: 100px;
   }
+
+}
+header {
+  height: 500px;
+}
+
+.color1 { 
+  background-color: rgba(226, 83, 138, 0.5)
 
 }
