@@ -46,6 +46,11 @@ header {
 
 }
 
+.color2 {
+  background-color: rgba(0, 0, 0, 0.247)
+}
+
+
 .icon1 {
   font-size: 40px;
 }
